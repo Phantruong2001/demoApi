@@ -9,7 +9,7 @@ public class NewAPI {
 
     public String testAPI() {
 
-        return "success";
+        return "successaaaaa";
 
     }
 }
